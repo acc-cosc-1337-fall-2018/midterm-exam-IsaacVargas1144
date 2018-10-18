@@ -1,12 +1,12 @@
+#include "evaluation.h"
 //Don't forget includes!!!!!
 
-/*
-Call the faculty_evaluation function with 
-faculty_valuation parameter arguments as follows:
-responses = 200
-alw = 188
-voft = 8
-oft = 4
+int faculty_evaluation 
+	faculty_valuation parameter arguments as follows:
+			void responses = 200
+			int alw = 188
+			int voft = 8
+			int oft = 4
 
 Output result to screen.
 */

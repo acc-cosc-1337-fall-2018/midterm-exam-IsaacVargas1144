@@ -1,3 +1,5 @@
+#include "dive.cpp"
+
 //Don't forget includes!!!!!
 
 /*
@@ -12,5 +14,13 @@ Output the function get_sacr to screen (should return 25).
 */
 int main() 
 {
+	Dive();
+	{
+			d = 55;
+			s = 3000;
+			f = 1000;
+			t = 30;
+			std::cout >> sacr;
+	};
 	return 0;
 }

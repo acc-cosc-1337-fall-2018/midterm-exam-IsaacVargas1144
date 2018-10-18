@@ -36,7 +36,8 @@ factorial(5) should result in 120
 */
 TEST_CASE("Question 2: Factorial function test") 
 {
-
+	REQUIRE(find_factorial((3) == 6);
+	REQUIRE(find_factorial((5) == 120);
 
 }
 
@@ -53,7 +54,7 @@ The function get_sacr should return 25
 */
 TEST_CASE("Question 3: Dive class test cases") 
 {
-
+	REQUIRE(Dive(d = 55, s = 3000, f = 1000, t = 30) == 25);
 }
 
 /*

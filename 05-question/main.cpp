@@ -1,3 +1,6 @@
+#include "animal.h"
+#include "cat.h"	
+#include "dog.h"
 //Don't forget includes!!!!!
 
 
@@ -12,6 +15,10 @@ Create an Animal reference to the dog instance and call the make_sound function.
 */
 int main() 
 {
+	Animal.make_sound << std::endl;
+	Dog.make_sound << std::endl;
+	Cat.make_sound << std::endl ;
+
 
 	return 0;
 }

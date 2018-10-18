@@ -1,3 +1,5 @@
+#include "factorial.h"
+#include <iostream>
 //Don't forget includes!!!!!
 
 /*
@@ -6,7 +8,11 @@ In the loop, prompt user for an integer, call the factorial function with
 the user given integer as a function argument, output result to screen.
 
 */
+
+
 int main() 
 {
-	return 0;
+	void find_factorial();
+	
 }
+	
